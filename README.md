@@ -1,5 +1,5 @@
 # DataAnalysis-Saronic-Gulf-Maritime-AIS-dataset    
-In the current work, we condacted statistical mining, visualization, data pre-processing and analysis on the Saronic Gulf Maritime AIS dataset which is comprised of vessel trajectories on the Saronic Gulf, Greece for a period of one week.  
+In the current work, we conducted statistical mining, visualization, data pre-processing and analysis on the Saronic Gulf Maritime AIS dataset which is comprised of vessel trajectories on the Saronic Gulf, Greece for a period of one week.  
 Our work is organized mainly as followed:    
 
 1. Data acquaintance  
