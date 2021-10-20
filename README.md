@@ -3,7 +3,7 @@ In the current work, we condacted statistical mining, visualization, data pre-pr
 Our work is organized mainly as followed:    
 
 1. Data acquaintance  
-2. Statistics extraxtion and visualization  
+2. Statistics extraction and visualization  
 3. Trajectory segmenation  
 4. Data analysis based on a custom similarity condition  
 5. Temporal alignment of the trajectories  
