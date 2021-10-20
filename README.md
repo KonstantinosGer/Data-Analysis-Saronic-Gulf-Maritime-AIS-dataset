@@ -10,6 +10,6 @@ Our work is organized mainly as followed:
 6. Finding hot-spots on the data with the use of DBSCAN, OPTICS and kmeans algorithms  
 7. Searching for group patterns among vessels using techniques like Flocks and Convoys    
 
-The dataset was provided from the Data Science Lab of the Department of Informatics(University of Piraeus).    
+The dataset was provided from the Data Science Lab of the Department of Informatics - University of Piraeus.    
 
 Last but not least, we want to pay gratitude to the Data Science Lab team for their guidance throughout this whole project.  
